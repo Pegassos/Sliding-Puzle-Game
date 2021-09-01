@@ -3,11 +3,12 @@ Sliding puzzle game where the player should move the grids to make them in ascen
 
 # Controls
 Arrow keys,
-Mouse click,
-buttons
+Mouse click
+or Buttons
 
 # Functionalities
-Moves counter and reset game button
+Number of moves counter 
+and reset game button
 
 # How to run 
 Download files and run the following commands:
