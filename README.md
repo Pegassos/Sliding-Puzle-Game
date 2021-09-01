@@ -5,10 +5,10 @@ Sliding puzzle game where the player should move the grids to make them in ascen
 Arrow keys,
 Mouse click
 or Buttons
-
+<!-- 
 # Functionalities
 Number of moves counter 
-and reset game button
+and reset game button -->
 
 # How to run 
 Download files and run the following commands:
