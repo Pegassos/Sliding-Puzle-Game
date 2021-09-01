@@ -1,5 +1,5 @@
 # Sliding-Puzle-Game
-Sliding puzzle game where the player should move the grids to make them in ascending order from 1 - 15 to win.
+Sliding puzzle simple game made with React, where the player should move the grids to make them in ascending order from 1 - 15 to win.
 
 # Controls
 Arrow keys,
