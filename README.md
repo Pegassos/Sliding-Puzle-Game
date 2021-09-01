@@ -10,8 +10,7 @@ buttons
 Moves counter and reset game button
 
 # How to run 
-download files and run the following commands:
+Download files and run the following commands:
 
-npm i express
-
-node index.js
+### `npm i express`
+### `node index.js`
