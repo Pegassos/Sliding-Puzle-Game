@@ -9,8 +9,9 @@ buttons
 # Functionalities
 Moves counter and reset game button
 
-#
+# How to run 
 download files and run the following commands:
 
 npm i express
+
 node index.js
