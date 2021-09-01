@@ -16,6 +16,7 @@ Download files and run the following commands:
 ### `node index.js`
 
 # Screenshots
-![ScreenShot](https://raw.github.com/Pegassos/Sliding-Puzle-Game/main/Screenshots/game-start.jpg)
+<!-- ![ScreenShot](https://raw.github.com/Pegassos/Sliding-Puzle-Game/main/Screenshots/game-start.jpg)
 ![ScreenShot](https://raw.github.com/Pegassos/Sliding-Puzle-Game/main/Screenshots/game-victory.jpg)
 ![ScreenShot](https://raw.github.com/Pegassos/Sliding-Puzle-Game/main/Screenshots/victory.jpg)
+ -->
