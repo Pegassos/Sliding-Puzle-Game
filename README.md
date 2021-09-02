@@ -11,7 +11,7 @@ Number of moves counter
 and reset game button -->
 
 # How to run 
-Download files and run the following commands:
+in the build directory:
 ### `npm i express`
 ### `node index.js`
 
